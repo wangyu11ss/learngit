@@ -4,4 +4,3 @@ Notepad++ v7.8.4 bug-fixes:
 2.  Fix HashFromDlg title bar localization issue.
 
 3.  Mime Tool 2.5
-地方撒旦发射
